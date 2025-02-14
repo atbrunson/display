@@ -1,1 +1,1 @@
-![BenWalt(/BenWalt.SGV)]
+![BenWalt](./BenWalt.SGV)
