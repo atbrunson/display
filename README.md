@@ -1,1 +1,1 @@
-![BenWalt](./BenWalt.SVG)
+![BenWalt](BenWALT.svg)
