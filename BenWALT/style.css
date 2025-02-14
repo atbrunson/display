@@ -4,16 +4,16 @@ img {
 }
 
 .portrait {
-    height: 80px;
-    width: 30px;
+    height: 800px;
+    width: 300px;
 }
 
 .landscape {
-    height: 30px;
-    width: 80px;
+    height: 300px;
+    width: 800px;
 }
 
 .square {
-    height: 75px;
-    width: 75px;
+    height: 750px;
+    width: 750px;
 }
